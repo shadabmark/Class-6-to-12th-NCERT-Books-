@@ -97,7 +97,7 @@ fun PdfViewerUI(navController: NavController, pdfUrl: String) {
                 text = "Page: ${currentPage.intValue}",
                 fontSize = 16.sp,
                 fontWeight = FontWeight.Bold,
-                color = Color.Red,
+                color = Color.LightGray,
                 modifier = Modifier
                     .align(Alignment.BottomStart)
                     .padding(start = 16.dp, bottom = 16.dp)
