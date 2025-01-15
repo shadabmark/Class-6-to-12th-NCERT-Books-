@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "914496015608",
+    "project_id": "class-6-to-12th-ncert-books",
+    "storage_bucket": "class-6-to-12th-ncert-books.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914496015608:android:448db35175f5c4d525bf0d",
+        "android_client_info": {
+          "package_name": "com.example.class6to12thncertfreesolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLMcb2hh-LEd4UeClaSwJOkz6Az7Tz14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914496015608:android:0ac5a6ec6e22eee225bf0d",
+        "android_client_info": {
+          "package_name": "com.example.ncert6to12solutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLMcb2hh-LEd4UeClaSwJOkz6Az7Tz14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914496015608:android:90253cdd691638fb25bf0d",
+        "android_client_info": {
+          "package_name": "com.example.ncertclass6to12books"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLMcb2hh-LEd4UeClaSwJOkz6Az7Tz14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
